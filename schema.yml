@@ -1,0 +1,424 @@
+openapi: 3.0.3
+info:
+  title: BCR
+  version: 1.0.0
+  description: Bar Chart Race is a great and highly visual way to display data changing
+    over time in the form of an animated bar chart. It's a very comprehensible representation
+    of time-based changes in data.
+paths:
+  /api/tutorials:
+    get:
+      operationId: api_tutorials_retrieve
+      tags:
+      - api
+      security:
+      - cookieAuth: []
+      - basicAuth: []
+      - {}
+      responses:
+        '200':
+          description: No response body
+    post:
+      operationId: api_tutorials_create
+      tags:
+      - api
+      security:
+      - cookieAuth: []
+      - basicAuth: []
+      - {}
+      responses:
+        '200':
+          description: No response body
+    delete:
+      operationId: api_tutorials_destroy
+      tags:
+      - api
+      security:
+      - cookieAuth: []
+      - basicAuth: []
+      - {}
+      responses:
+        '204':
+          description: No response body
+  /api/tutorials/{id}:
+    get:
+      operationId: api_tutorials_retrieve_2
+      parameters:
+      - in: path
+        name: id
+        schema:
+          type: string
+          pattern: ^[0-9]+$
+        required: true
+      tags:
+      - api
+      security:
+      - cookieAuth: []
+      - basicAuth: []
+      - {}
+      responses:
+        '200':
+          description: No response body
+    put:
+      operationId: api_tutorials_update
+      parameters:
+      - in: path
+        name: id
+        schema:
+          type: string
+          pattern: ^[0-9]+$
+        required: true
+      tags:
+      - api
+      security:
+      - cookieAuth: []
+      - basicAuth: []
+      - {}
+      responses:
+        '200':
+          description: No response body
+    delete:
+      operationId: api_tutorials_destroy_2
+      parameters:
+      - in: path
+        name: id
+        schema:
+          type: string
+          pattern: ^[0-9]+$
+        required: true
+      tags:
+      - api
+      security:
+      - cookieAuth: []
+      - basicAuth: []
+      - {}
+      responses:
+        '204':
+          description: No response body
+  /api/tutorials/published:
+    get:
+      operationId: api_tutorials_published_retrieve
+      tags:
+      - api
+      security:
+      - cookieAuth: []
+      - basicAuth: []
+      - {}
+      responses:
+        '200':
+          description: No response body
+  /categories/:
+    get:
+      operationId: categories_retrieve
+      tags:
+      - categories
+      security:
+      - cookieAuth: []
+      - basicAuth: []
+      - {}
+      responses:
+        '200':
+          description: No response body
+  /download_video:
+    get:
+      operationId: download_video_retrieve
+      tags:
+      - download_video
+      security:
+      - cookieAuth: []
+      - basicAuth: []
+      - {}
+      responses:
+        '200':
+          description: No response body
+    put:
+      operationId: download_video_update
+      tags:
+      - download_video
+      security:
+      - cookieAuth: []
+      - basicAuth: []
+      - {}
+      responses:
+        '200':
+          description: No response body
+  /enhance_more_data:
+    get:
+      operationId: enhance_more_data_retrieve
+      tags:
+      - enhance_more_data
+      security:
+      - cookieAuth: []
+      - basicAuth: []
+      - {}
+      responses:
+        '200':
+          description: No response body
+  /get_baidu_hot:
+    get:
+      operationId: get_baidu_hot_retrieve
+      tags:
+      - get_baidu_hot
+      security:
+      - cookieAuth: []
+      - basicAuth: []
+      - {}
+      responses:
+        '200':
+          description: No response body
+    post:
+      operationId: get_baidu_hot_create
+      tags:
+      - get_baidu_hot
+      security:
+      - cookieAuth: []
+      - basicAuth: []
+      - {}
+      responses:
+        '200':
+          description: No response body
+  /get_bili_api:
+    get:
+      operationId: get_bili_api_retrieve
+      tags:
+      - get_bili_api
+      security:
+      - cookieAuth: []
+      - basicAuth: []
+      - {}
+      responses:
+        '200':
+          description: No response body
+  /get_city_opendata/{city}/{country}:
+    get:
+      operationId: get_city_opendata_retrieve
+      description: '[Geonames Cities with population > 5000](https://documentation-resources.opendatasoft.com/explore/dataset/doc-geonames-cities-5000/api/?refine.population=10000)'
+      parameters:
+      - in: path
+        name: city
+        schema:
+          type: string
+          pattern: ^.+?$
+        required: true
+      - in: path
+        name: country
+        schema:
+          type: string
+          pattern: ^.+$
+        required: true
+      tags:
+      - get_city_opendata
+      security:
+      - cookieAuth: []
+      - basicAuth: []
+      - {}
+      responses:
+        '200':
+          description: No response body
+  /get_google_trends:
+    get:
+      operationId: get_google_trends_retrieve
+      tags:
+      - get_google_trends
+      security:
+      - cookieAuth: []
+      - basicAuth: []
+      - {}
+      responses:
+        '200':
+          description: No response body
+    post:
+      operationId: get_google_trends_create
+      tags:
+      - get_google_trends
+      security:
+      - cookieAuth: []
+      - basicAuth: []
+      - {}
+      responses:
+        '200':
+          description: No response body
+  /get_hanlp_d:
+    get:
+      operationId: get_hanlp_d_retrieve
+      tags:
+      - get_hanlp_d
+      security:
+      - cookieAuth: []
+      - basicAuth: []
+      - {}
+      responses:
+        '200':
+          description: No response body
+  /get_more_data:
+    get:
+      operationId: get_more_data_retrieve
+      tags:
+      - get_more_data
+      security:
+      - cookieAuth: []
+      - basicAuth: []
+      - {}
+      responses:
+        '200':
+          description: No response body
+  /get_opendatasoft_dataset:
+    get:
+      operationId: get_opendatasoft_dataset_retrieve
+      tags:
+      - get_opendatasoft_dataset
+      security:
+      - cookieAuth: []
+      - basicAuth: []
+      - {}
+      responses:
+        '200':
+          description: No response body
+  /get_profile:
+    get:
+      operationId: get_profile_retrieve
+      tags:
+      - get_profile
+      security:
+      - cookieAuth: []
+      - basicAuth: []
+      - {}
+      responses:
+        '200':
+          description: No response body
+  /get_regions:
+    get:
+      operationId: get_regions_retrieve
+      tags:
+      - get_regions
+      security:
+      - cookieAuth: []
+      - basicAuth: []
+      - {}
+      responses:
+        '200':
+          description: No response body
+    post:
+      operationId: get_regions_create
+      tags:
+      - get_regions
+      security:
+      - cookieAuth: []
+      - basicAuth: []
+      - {}
+      responses:
+        '200':
+          description: No response body
+    put:
+      operationId: get_regions_update
+      tags:
+      - get_regions
+      security:
+      - cookieAuth: []
+      - basicAuth: []
+      - {}
+      responses:
+        '200':
+          description: No response body
+  /get_trends_geos:
+    get:
+      operationId: get_trends_geos_retrieve
+      tags:
+      - get_trends_geos
+      security:
+      - cookieAuth: []
+      - basicAuth: []
+      - {}
+      responses:
+        '200':
+          description: No response body
+  /get_weibo:
+    get:
+      operationId: get_weibo_retrieve
+      tags:
+      - get_weibo
+      security:
+      - cookieAuth: []
+      - basicAuth: []
+      - {}
+      responses:
+        '200':
+          description: No response body
+    post:
+      operationId: get_weibo_create
+      description: '[超话，网络流行词，是超级话题的简称，是新浪微博推出的一项功能，拥有共同兴趣的人集合在一起形成的圈子](https://weibo.com/p/100808fb050d6c9bcc97ed6836bb9ab9b3da7f/super_index)'
+      tags:
+      - get_weibo
+      security:
+      - cookieAuth: []
+      - basicAuth: []
+      - {}
+      responses:
+        '200':
+          description: No response body
+    put:
+      operationId: get_weibo_update
+      tags:
+      - get_weibo
+      security:
+      - cookieAuth: []
+      - basicAuth: []
+      - {}
+      responses:
+        '200':
+          description: No response body
+  /set_name:
+    get:
+      operationId: set_name_retrieve
+      tags:
+      - set_name
+      security:
+      - cookieAuth: []
+      - basicAuth: []
+      - {}
+      responses:
+        '200':
+          description: No response body
+  /suggest_keyword/{keyword}:
+    get:
+      operationId: suggest_keyword_retrieve
+      description: '[Suggestions: returns a list of additional suggested keywords
+        that can be used to refine a trend search.](https://github.com/GeneralMills/pytrends#suggestions)'
+      parameters:
+      - in: path
+        name: keyword
+        schema:
+          type: string
+          pattern: ^.+$
+        required: true
+      tags:
+      - suggest_keyword
+      security:
+      - cookieAuth: []
+      - basicAuth: []
+      - {}
+      responses:
+        '200':
+          description: No response body
+  /winiter_atheletes/:
+    get:
+      operationId: winiter_atheletes_retrieve
+      description: get 2022 Winiter Olympic Athelets
+      tags:
+      - winiter_atheletes
+      security:
+      - cookieAuth: []
+      - basicAuth: []
+      - {}
+      responses:
+        '200':
+          description: No response body
+components:
+  securitySchemes:
+    basicAuth:
+      type: http
+      scheme: basic
+    cookieAuth:
+      type: apiKey
+      in: cookie
+      name: sessionid

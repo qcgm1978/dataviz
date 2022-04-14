@@ -1,0 +1,3954 @@
+[
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 1,
+        "name": "\"Weird Al\" Yankovic",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": "双链大师",
+        "continent": "北美",
+        "id": 2,
+        "name": "2 Chainz",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "21·萨维奇",
+        "continent": "欧洲",
+        "id": 3,
+        "name": "21 Savage",
+        "nation": "英国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 4,
+        "name": "24kGoldn",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "5秒盛夏",
+        "continent": "澳洲",
+        "id": 5,
+        "name": "5 Seconds Of Summer",
+        "nation": "澳大利亚",
+        "中文名": null
+    },
+    {
+        "alias": "Tekashi、Tekashi69",
+        "continent": "北美",
+        "id": 6,
+        "name": "6ix9ine",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 7,
+        "name": "A Boogie Wit da Hoodie",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 8,
+        "name": "A Day To Remember",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 9,
+        "name": "A Perfect Circle",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": "探索一族",
+        "continent": "北美",
+        "id": 10,
+        "name": "A Tribe Called Quest",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "Lord Flacko",
+        "continent": "北美",
+        "id": 11,
+        "name": "A$AP Rocky",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "阿巴合唱团",
+        "continent": "欧洲",
+        "id": 12,
+        "name": "ABBA",
+        "nation": "瑞典",
+        "中文名": null
+    },
+    {
+        "alias": "交流电\/直流电",
+        "continent": "澳洲",
+        "id": 13,
+        "name": "AC\/DC",
+        "nation": "澳大利亚",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 14,
+        "name": "AJR",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "欧洲",
+        "id": 15,
+        "name": "Above & Beyond",
+        "nation": "英国",
+        "中文名": null
+    },
+    {
+        "alias": "阿黛尔",
+        "continent": "欧洲",
+        "id": 16,
+        "name": "Adele",
+        "nation": "英国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 17,
+        "name": "Agust D",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 18,
+        "name": "Alabama Shakes",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "阿兰•杰克逊",
+        "continent": "北美",
+        "id": 19,
+        "name": "Alan Jackson",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "亚洲",
+        "id": 20,
+        "name": "Alka Yagnik",
+        "nation": "India",
+        "中文名": null
+    },
+    {
+        "alias": "最低点乐队",
+        "continent": "北美",
+        "id": 21,
+        "name": "All Time Low",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "安德森·帕克",
+        "continent": "北美",
+        "id": 22,
+        "name": "Anderson .Paak",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "安德烈·波切利",
+        "continent": "欧洲",
+        "id": 23,
+        "name": "Andrea Bocelli",
+        "nation": "意大利",
+        "中文名": null
+    },
+    {
+        "alias": "霍华德·安德鲁·威廉姆斯",
+        "continent": "北美",
+        "id": 24,
+        "name": "Andy Williams",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "美国",
+        "id": 25,
+        "name": "Anuel AA",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "拱廊之火",
+        "continent": "北美",
+        "id": 26,
+        "name": "Arcade Fire",
+        "nation": "加拿大",
+        "中文名": null
+    },
+    {
+        "alias": "艾瑞莎·弗兰克林",
+        "continent": "北美",
+        "id": 27,
+        "name": "Aretha Franklin",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 28,
+        "name": "Ariana Gr",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": "A妹",
+        "continent": "北美",
+        "id": 29,
+        "name": "Ariana Grande",
+        "nation": "美国",
+        "中文名": "爱莉安娜•格兰德"
+    },
+    {
+        "alias": "艾娃·马克斯",
+        "continent": "北美",
+        "id": 30,
+        "name": "Ava Max",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "七倍报应，复仇七倍，七级炼狱",
+        "continent": "北美",
+        "id": 31,
+        "name": "Avenged Sevenfold",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "艾维奇",
+        "continent": "欧洲",
+        "id": 32,
+        "name": "Avicii",
+        "nation": "瑞典",
+        "中文名": null
+    },
+    {
+        "alias": "墨特罗·布门",
+        "continent": "亚洲",
+        "id": 33,
+        "name": "BLACKPINK",
+        "nation": "韩国、泰国、新西兰",
+        "中文名": null
+    },
+    {
+        "alias": "防弾少年団",
+        "continent": "亚洲",
+        "id": 34,
+        "name": "BTS",
+        "nation": "韩国",
+        "中文名": null
+    },
+    {
+        "alias": "后街男孩",
+        "continent": "北美",
+        "id": 35,
+        "name": "Backstreet Boys",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "奥兹.奥斯本",
+        "continent": "北美",
+        "id": 36,
+        "name": "Bad Bunny",
+        "nation": "波多黎各",
+        "中文名": null
+    },
+    {
+        "alias": "史翠珊",
+        "continent": "北美",
+        "id": 37,
+        "name": "Barbra Streisand",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "巴士底乐队",
+        "continent": "欧洲",
+        "id": 38,
+        "name": "Bastille",
+        "nation": "英国",
+        "中文名": null
+    },
+    {
+        "alias": "牙缝妹",
+        "continent": "北美",
+        "id": 39,
+        "name": "Becky G",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "局长",
+        "continent": "北美",
+        "id": 40,
+        "name": "Beyonce",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "大肖恩",
+        "continent": "北美",
+        "id": 41,
+        "name": "Big Sean",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 42,
+        "name": "Bill Withers",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": "碧梨",
+        "continent": "北美",
+        "id": 43,
+        "name": "Billie Eilish",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "平·克劳斯贝",
+        "continent": "北美",
+        "id": 44,
+        "name": "Bing Crosby",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "熊脸",
+        "continent": "北美",
+        "id": 45,
+        "name": "Blake Shelton",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "眨眼182",
+        "continent": "北美",
+        "id": 46,
+        "name": "Blink-182",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "鲍勃•迪伦",
+        "continent": "北美",
+        "id": 47,
+        "name": "Bob Dylan",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 48,
+        "name": "Bobby Helms",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": "美好冬天",
+        "continent": "北美",
+        "id": 49,
+        "name": "Bon Iver",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "邦乔维",
+        "continent": "北美",
+        "id": 50,
+        "name": "Bon Jovi",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "Lil Boosie",
+        "continent": "北美",
+        "id": 51,
+        "name": "Boosie BadAzz",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "布莱德利·库珀",
+        "continent": "北美",
+        "id": 52,
+        "name": "Bradley Cooper",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 53,
+        "name": "Brand New",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": "布兰迪·卡莉",
+        "continent": "北美",
+        "id": 54,
+        "name": "Brandi Carlile",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "布兰特利·吉尔伯特",
+        "continent": "北美",
+        "id": 55,
+        "name": "Brantley Gilbert",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "欧美",
+        "id": 56,
+        "name": "Breaking Benjamin",
+        "nation": "欧美",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 57,
+        "name": "Brenda Lee",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 58,
+        "name": "Brett Eldredge",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "飞越地平线乐团",
+        "continent": "欧洲",
+        "id": 59,
+        "name": "Bring Me The Horizon",
+        "nation": "英国",
+        "中文名": null
+    },
+    {
+        "alias": "小甜甜",
+        "continent": "北美",
+        "id": 60,
+        "name": "Britney Spears",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 61,
+        "name": "BrockHampton",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "奥斯本兄弟",
+        "continent": "北美",
+        "id": 62,
+        "name": "Brothers Osborne",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 63,
+        "name": "Bruce Springsteen & The E Street Band",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": "火星哥",
+        "continent": "北美",
+        "id": 64,
+        "name": "Bruno Mars",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "布莱森·提勒",
+        "continent": "北美",
+        "id": 65,
+        "name": "Bryson Tiller",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 66,
+        "name": "Burl Ives",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "美国",
+        "id": 67,
+        "name": "CNCO",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "加尔文•哈里斯",
+        "continent": "欧洲",
+        "id": 68,
+        "name": "Calvin Harris",
+        "nation": "英国",
+        "中文名": null
+    },
+    {
+        "alias": "卡米拉·卡贝洛",
+        "continent": "北美",
+        "id": 69,
+        "name": "Camila Cabello",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "Bardi",
+        "continent": "北美",
+        "id": 70,
+        "name": "Cardi B",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 71,
+        "name": "Carolina Gaitan",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": "凯莉·安德伍德",
+        "continent": "北美",
+        "id": 72,
+        "name": "Carrie Underwood",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 73,
+        "name": "Celine Dion",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": "强斯勒·乔纳森·班尼特",
+        "continent": "北美",
+        "id": 74,
+        "name": "Chance The Rapper",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "查莉·XCX",
+        "continent": "欧洲",
+        "id": 75,
+        "name": "Charli XCX",
+        "nation": "英国",
+        "中文名": null
+    },
+    {
+        "alias": "CP查理",
+        "continent": "北美",
+        "id": 76,
+        "name": "Charlie Puth",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "雪儿",
+        "continent": "北美",
+        "id": 77,
+        "name": "Cher",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "小唐纳德·麦金利·格洛沃",
+        "continent": "北美",
+        "id": 78,
+        "name": "Childish Gambino",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "克里斯·布朗",
+        "continent": "北美",
+        "id": 79,
+        "name": "Chris Brown",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "克里斯·斯台普顿",
+        "continent": "北美",
+        "id": 80,
+        "name": "Chris Stapleton",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "Xtina，CA妈",
+        "continent": "北美",
+        "id": 81,
+        "name": "Christina Aguilera",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "清洁盗贼",
+        "continent": "欧洲",
+        "id": 82,
+        "name": "Clean Bandit",
+        "nation": "英国",
+        "中文名": null
+    },
+    {
+        "alias": "冷玩",
+        "continent": "欧洲",
+        "id": 83,
+        "name": "Coldplay",
+        "nation": "英国",
+        "中文名": null
+    },
+    {
+        "alias": "科尔·斯温德尔",
+        "continent": "北美",
+        "id": 84,
+        "name": "Cole Swindell",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "柯南·格雷",
+        "continent": "北美",
+        "id": 85,
+        "name": "Conan Gray",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "哈立德·穆罕穆德·卡利",
+        "continent": "北美",
+        "id": 86,
+        "name": "DJ Khaled",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 87,
+        "name": "DMX",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "乔纳森·林代尔·柯克",
+        "continent": "北美",
+        "id": 88,
+        "name": "DaBaby",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "丹和沙伊",
+        "continent": "北美",
+        "id": 89,
+        "name": "Dan + Shay",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 90,
+        "name": "Dave Matthews Band",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": "大卫·鲍伊",
+        "continent": "欧洲",
+        "id": 91,
+        "name": "David Bowie",
+        "nation": "英国",
+        "中文名": null
+    },
+    {
+        "alias": "大卫·伯恩",
+        "continent": "北美",
+        "id": 92,
+        "name": "David Byrne",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 93,
+        "name": "Deftones",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": "黛米•洛瓦托",
+        "continent": "北美",
+        "id": 94,
+        "name": "Demi Lovato",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "赶时髦乐队",
+        "continent": "欧洲",
+        "id": 95,
+        "name": "Depeche Mode",
+        "nation": "英国",
+        "中文名": null
+    },
+    {
+        "alias": "迪赞纳",
+        "continent": "北美",
+        "id": 96,
+        "name": "Desiigner",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "弗兰德里克",
+        "continent": "北美",
+        "id": 97,
+        "name": "Dierks Bentley",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "解密兄弟",
+        "continent": "欧洲",
+        "id": 98,
+        "name": "Disclosure",
+        "nation": "英国",
+        "中文名": null
+    },
+    {
+        "alias": "骚动乐团",
+        "continent": "北美",
+        "id": 99,
+        "name": "Disturbed",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "Amalaratna Zandile Dlamini",
+        "continent": "北美",
+        "id": 100,
+        "name": "Doja Cat",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "多莉·帕顿",
+        "continent": "北美",
+        "id": 101,
+        "name": "Dolly Parton",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 102,
+        "name": "Don Toliver",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "安德烈·罗梅勒·杨",
+        "continent": "北美",
+        "id": 103,
+        "name": "Dr. Dre",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "公鸭",
+        "continent": "北美",
+        "id": 104,
+        "name": "Drake",
+        "nation": "加拿大、美国",
+        "中文名": "奥布瑞·德雷克·格瑞汉"
+    },
+    {
+        "alias": "啪姐",
+        "continent": "欧洲",
+        "id": 105,
+        "name": "Dua Lipa",
+        "nation": "英国",
+        "中文名": null
+    },
+    {
+        "alias": "茶蛋",
+        "continent": "亚洲",
+        "id": 106,
+        "name": "EXO",
+        "nation": "韩国、中国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 107,
+        "name": "Eagles",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "黄老板",
+        "continent": "欧洲",
+        "id": 108,
+        "name": "Ed Sheeran",
+        "nation": "英国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "欧洲",
+        "id": 109,
+        "name": "Ella Mai",
+        "nation": "英国",
+        "中文名": null
+    },
+    {
+        "alias": "绵羊",
+        "continent": "欧洲",
+        "id": 110,
+        "name": "Ellie Goulding",
+        "nation": "英国",
+        "中文名": null
+    },
+    {
+        "alias": "艾尔顿·海克力斯·约翰爵士",
+        "continent": "欧洲",
+        "id": 111,
+        "name": "Elton John",
+        "nation": "英国",
+        "中文名": null
+    },
+    {
+        "alias": "阿姆",
+        "continent": "北美",
+        "id": 112,
+        "name": "Eminem",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "安叔",
+        "continent": "欧洲",
+        "id": 113,
+        "name": "Enrique Iglesias",
+        "nation": "西班牙\/美国",
+        "中文名": null
+    },
+    {
+        "alias": "艾瑞克·乔治",
+        "continent": "北美",
+        "id": 114,
+        "name": "Eric Church",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "翻闹小子",
+        "continent": "北美",
+        "id": 115,
+        "name": "Fall Out Boy",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": null,
+        "id": 116,
+        "name": "Farruko",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": "菲迪·瓦普",
+        "continent": "北美",
+        "id": 117,
+        "name": "Fetty Wap",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "五美",
+        "continent": "北美",
+        "id": 118,
+        "name": "Fifth Harmony",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "Fiona Apple McAfee Maggart",
+        "continent": "北美",
+        "id": 119,
+        "name": "Fiona Apple",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 120,
+        "name": "Five Finger Death Punch",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "佛利伍麦克",
+        "continent": "欧洲",
+        "id": 121,
+        "name": "Fleetwood Mac",
+        "nation": "英国",
+        "中文名": null
+    },
+    {
+        "alias": " The Machine",
+        "continent": "欧洲",
+        "id": 122,
+        "name": "Florence + The Machine",
+        "nation": "英国",
+        "中文名": null
+    },
+    {
+        "alias": "佛罗里达乔治亚边境线",
+        "continent": "北美",
+        "id": 123,
+        "name": "Florida Georgia Line",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "喷火战机乐队",
+        "continent": "北美",
+        "id": 124,
+        "name": "Foo Fighters",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "弗兰克·奥申",
+        "continent": "北美",
+        "id": 125,
+        "name": "Frank Ocean",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 126,
+        "name": "French Montana",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "Harold Michael Simmons II",
+        "continent": "北美",
+        "id": 127,
+        "name": "Future",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 128,
+        "name": "G-Eazy",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 129,
+        "name": "GAYLE",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 130,
+        "name": "Gabby Barrett",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "加斯·布鲁克斯",
+        "continent": "北美",
+        "id": 131,
+        "name": "Garth Brooks",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 132,
+        "name": "Gary Clark Jr.",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "乔治·迈克尔",
+        "continent": "欧洲",
+        "id": 133,
+        "name": "George Michael",
+        "nation": "英国",
+        "中文名": null
+    },
+    {
+        "alias": "佐治·史瑞",
+        "continent": "北美",
+        "id": 134,
+        "name": "George Strait",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 135,
+        "name": "Ghost",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": "易碎动物乐队",
+        "continent": "欧洲",
+        "id": 136,
+        "name": "Glass Animals",
+        "nation": "英国",
+        "中文名": null
+    },
+    {
+        "alias": "街头霸王",
+        "continent": "欧洲",
+        "id": 137,
+        "name": "Gorillaz",
+        "nation": "英国",
+        "中文名": null
+    },
+    {
+        "alias": "感恩而死",
+        "continent": "北美",
+        "id": 138,
+        "name": "Grateful Dead",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "绿日",
+        "continent": "北美",
+        "id": 139,
+        "name": "Green Day",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 140,
+        "name": "Greta Van Fleet",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 141,
+        "name": "Grey",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "古驰·马内",
+        "continent": "北美",
+        "id": 142,
+        "name": "Gucci Mane",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "甘纳",
+        "continent": "北美",
+        "id": 143,
+        "name": "Gunna",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "格温·史蒂芬妮",
+        "continent": "北美",
+        "id": 144,
+        "name": "Gwen Stefani",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "Gabriella Wilson",
+        "continent": "北美",
+        "id": 145,
+        "name": "H.E.R.",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "海尔希",
+        "continent": "北美",
+        "id": 146,
+        "name": "Halsey",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "Harry Edward Styles|哈利·爱德华·斯泰尔斯",
+        "continent": "欧洲",
+        "id": 147,
+        "name": "Harry Styles",
+        "nation": "英国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "澳洲",
+        "id": 148,
+        "name": "Hillsong UNITED",
+        "nation": "澳大利亚",
+        "中文名": null
+    },
+    {
+        "alias": "猴子",
+        "continent": "欧洲",
+        "id": 149,
+        "name": "Hozier",
+        "nation": "爱尔兰",
+        "中文名": null
+    },
+    {
+        "alias": "伊基·阿塞莉娅，阿米莉亚·凯利",
+        "continent": "澳洲",
+        "id": 150,
+        "name": "Iggy Azalea",
+        "nation": "澳大利亚",
+        "中文名": null
+    },
+    {
+        "alias": "梦想之龙乐队",
+        "continent": "北美",
+        "id": 151,
+        "name": "Imagine Dragons",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 152,
+        "name": "Incubus",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": "铁娘子乐队",
+        "continent": "欧洲",
+        "id": 153,
+        "name": "Iron Maiden",
+        "nation": "英国",
+        "中文名": null
+    },
+    {
+        "alias": "杰·巴拉文",
+        "continent": "哥伦比亚",
+        "id": 154,
+        "name": "J Balvin",
+        "nation": "哥伦比亚",
+        "中文名": null
+    },
+    {
+        "alias": "杰梅因·拉马尔·科尔",
+        "continent": "北美",
+        "id": 155,
+        "name": "J. Cole",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 156,
+        "name": "JACKBOYS",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 157,
+        "name": "JAY-Z",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 158,
+        "name": "Jack Harlow",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "约翰·安东尼·吉利斯",
+        "continent": "北美",
+        "id": 159,
+        "name": "Jack White",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "杰克·欧文",
+        "continent": "北美",
+        "id": 160,
+        "name": "Jake Owen",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 161,
+        "name": "James Taylor",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 162,
+        "name": "Jameson Rodgers",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 163,
+        "name": "Janelle Monae",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": "珍妮特·杰克逊",
+        "continent": "北美",
+        "id": 164,
+        "name": "Janet Jackson",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "杰森•阿尔丁",
+        "continent": "北美",
+        "id": 165,
+        "name": "Jason Aldean",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "大卤肉",
+        "continent": "北美",
+        "id": 166,
+        "name": "Jason Derulo",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 167,
+        "name": "Jason Isbell And The 400 Unit",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "男巫",
+        "continent": "北美",
+        "id": 168,
+        "name": "Jason Mraz",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "Joshua Stylah",
+        "continent": "澳洲",
+        "id": 169,
+        "name": "Jawsh 685",
+        "nation": "新西兰",
+        "中文名": null
+    },
+    {
+        "alias": "杰伊·詹金斯",
+        "continent": "北美",
+        "id": 170,
+        "name": "Jeezy",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "洁妮·爱子",
+        "continent": "北美",
+        "id": 171,
+        "name": "Jhene Aiko",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "吉尔斯科特",
+        "continent": "北美",
+        "id": 172,
+        "name": "Jill Scott",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "美国密西西比州的Pascagoula",
+        "id": 173,
+        "name": "Jimmy Buffett",
+        "nation": "美国密西西比州的Pascagoula",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 174,
+        "name": "Joe Bonamassa",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 175,
+        "name": "John Legend",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "约翰·列侬",
+        "continent": "欧洲",
+        "id": 176,
+        "name": "John Lennon",
+        "nation": "英国",
+        "中文名": null
+    },
+    {
+        "alias": "囧妹",
+        "continent": "北美",
+        "id": 177,
+        "name": "John Mayer",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "约翰·普林",
+        "continent": "北美",
+        "id": 178,
+        "name": "John Prine",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "乔纳斯兄弟",
+        "continent": "北美",
+        "id": 179,
+        "name": "Jonas Brothers",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "乔丹·史密斯",
+        "continent": "未知",
+        "id": 180,
+        "name": "Jordan Smith",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 181,
+        "name": "Jose Feliciano",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": "乔诗·葛洛班，约书亚·温斯诺·葛洛班",
+        "continent": "北美",
+        "id": 182,
+        "name": "Josh Groban",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": null,
+        "id": 183,
+        "name": "Jubin Nautiyal",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": "犹大圣徒",
+        "continent": "欧洲",
+        "id": 184,
+        "name": "Judas Priest",
+        "nation": "英国",
+        "中文名": null
+    },
+    {
+        "alias": "Jarad Higgins",
+        "continent": "北美",
+        "id": 185,
+        "name": "Juice WRLD",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "B宝",
+        "continent": "北美",
+        "id": 186,
+        "name": "Justin Bieber",
+        "nation": "加拿大",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 187,
+        "name": "Justin Moore",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "贾老板",
+        "continent": "北美",
+        "id": 188,
+        "name": "Justin Timberlake",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 189,
+        "name": "J·科尔",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "哥伦比亚",
+        "id": 190,
+        "name": "KAROL G",
+        "nation": "哥伦比亚",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 191,
+        "name": "KIDS SEE GHOSTS",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "刚果乐队",
+        "continent": "非洲",
+        "id": 192,
+        "name": "KONGOS",
+        "nation": "南非",
+        "中文名": null
+    },
+    {
+        "alias": "凯茜·马斯格雷夫斯",
+        "continent": "北美",
+        "id": 193,
+        "name": "Kacey Musgraves",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "凯恩·艾伦·布朗",
+        "continent": "北美",
+        "id": 194,
+        "name": "Kane Brown",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "侃爷",
+        "continent": "北美",
+        "id": 195,
+        "name": "Kanye West",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": null,
+        "id": 196,
+        "name": "Karol G",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": "水果姐",
+        "continent": "北美",
+        "id": 197,
+        "name": "Katy Perry",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "柯兰尼",
+        "continent": "北美",
+        "id": 198,
+        "name": "Kehlani",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "凯斯·厄本",
+        "continent": "澳洲",
+        "id": 199,
+        "name": "Keith Urban",
+        "nation": "澳大利亚",
+        "中文名": null
+    },
+    {
+        "alias": "凯丽·克拉森",
+        "continent": "北美",
+        "id": 200,
+        "name": "Kelly Clarkson",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "肯德里克·拉马尔",
+        "continent": "北美",
+        "id": 201,
+        "name": "Kendrick Lamar",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "Kenneth Arnold Chesney",
+        "continent": "北美",
+        "id": 202,
+        "name": "Kenny Chesney",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "肯尼·罗杰斯",
+        "continent": "北美",
+        "id": 203,
+        "name": "Kenny Rogers",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "凯莎·罗斯·塞伯特",
+        "continent": "北美",
+        "id": 204,
+        "name": "Kesha",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 205,
+        "name": "Kevin Gates",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "哈立德",
+        "continent": "北美",
+        "id": 206,
+        "name": "Khalid",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": null,
+        "id": 207,
+        "name": "Khesari Lal Yadav",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 208,
+        "name": "Kid Cudi",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 209,
+        "name": "Kid Rock",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 210,
+        "name": "Kidz Bop Kids",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 211,
+        "name": "King Von",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 212,
+        "name": "Kings Of Leon",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": "Black",
+        "continent": "北美",
+        "id": 213,
+        "name": "Kodak Black",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "亚洲",
+        "id": 214,
+        "name": "Kumar Sanu",
+        "nation": "印度",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 215,
+        "name": "LANY",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "液晶大喇叭",
+        "continent": "北美",
+        "id": 216,
+        "name": "LCD Soundsystem",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "亚洲",
+        "id": 217,
+        "name": "LISA",
+        "nation": "泰国",
+        "中文名": null
+    },
+    {
+        "alias": "怀旧女郎",
+        "continent": "北美",
+        "id": 218,
+        "name": "Lady A",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "史蒂芬妮",
+        "continent": "北美",
+        "id": 219,
+        "name": "Lady Gaga",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "拉拉打雷",
+        "continent": "北美",
+        "id": 220,
+        "name": "Lana Del Rey",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "亚洲",
+        "id": 221,
+        "name": "Lata Mangeshkar",
+        "nation": "印度",
+        "中文名": null
+    },
+    {
+        "alias": "劳伦·戴格尔",
+        "continent": "北美",
+        "id": 222,
+        "name": "Lauren Daigle",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 223,
+        "name": "Lecrae",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "齐柏林飞船",
+        "continent": "欧洲",
+        "id": 224,
+        "name": "Led Zeppelin",
+        "nation": "英国",
+        "中文名": null
+    },
+    {
+        "alias": "李·布莱斯",
+        "continent": "北美",
+        "id": 225,
+        "name": "Lee Brice",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "利昂·布里奇斯",
+        "continent": "北美",
+        "id": 226,
+        "name": "Leon Bridges",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "里奥纳德·科恩 \/ 李欧纳·柯恩",
+        "continent": "北美",
+        "id": 227,
+        "name": "Leonard Cohen",
+        "nation": "加拿大,魁北克省,蒙特利尔",
+        "中文名": null
+    },
+    {
+        "alias": "刘易斯·卡帕尔迪",
+        "continent": "欧洲",
+        "id": 228,
+        "name": "Lewis Capaldi",
+        "nation": "英国",
+        "中文名": null
+    },
+    {
+        "alias": "Dominique Jones",
+        "continent": "北美",
+        "id": 229,
+        "name": "Lil Baby",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 230,
+        "name": "Lil Durk",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 231,
+        "name": "Lil Nas",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": "利尔·纳斯·",
+        "continent": "北美",
+        "id": 232,
+        "name": "Lil Nas X",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 233,
+        "name": "Lil Tecca",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 234,
+        "name": "Lil Tjay",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "小乌兹",
+        "continent": "北美",
+        "id": 235,
+        "name": "Lil Uzi Vert",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "李伟",
+        "continent": "北美",
+        "id": 236,
+        "name": "Lil Wayne",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "联合公园",
+        "continent": "北美",
+        "id": 237,
+        "name": "Linkin Park",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "莱昂纳尔·里奇",
+        "continent": "北美",
+        "id": 238,
+        "name": "Lionel Richie",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "小大城镇",
+        "continent": "北美",
+        "id": 239,
+        "name": "Little Big Town",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "莉佐",
+        "continent": "北美",
+        "id": 240,
+        "name": "Lizzo",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "Sir Robert Bryson Hall II",
+        "continent": "北美",
+        "id": 241,
+        "name": "Logic",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "洛德",
+        "continent": "澳洲",
+        "id": 242,
+        "name": "Lorde",
+        "nation": "新西兰",
+        "中文名": null
+    },
+    {
+        "alias": "路易斯·汤姆林森",
+        "continent": "欧洲",
+        "id": 243,
+        "name": "Louis Tomlinson",
+        "nation": "英国",
+        "中文名": null
+    },
+    {
+        "alias": "卢卡斯·格雷厄姆",
+        "continent": "欧洲",
+        "id": 244,
+        "name": "Lukas Graham",
+        "nation": "丹麦",
+        "中文名": null
+    },
+    {
+        "alias": "白牙",
+        "continent": "北美",
+        "id": 245,
+        "name": "Luke Bryan",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 246,
+        "name": "Luke Combs",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "魔幻乐团",
+        "continent": "北美",
+        "id": 247,
+        "name": "MAGIC!",
+        "nation": "加拿大",
+        "中文名": null
+    },
+    {
+        "alias": "马克托组合",
+        "continent": "欧美",
+        "id": 248,
+        "name": "MKTO",
+        "nation": "欧美",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "亚洲",
+        "id": 249,
+        "name": "MONSTA X",
+        "nation": "韩国",
+        "中文名": null
+    },
+    {
+        "alias": "马尔科姆·詹姆斯·麦考密克|Malcolm McCormick",
+        "continent": "北美",
+        "id": 250,
+        "name": "Mac Miller",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "机关枪凯利",
+        "continent": "北美",
+        "id": 251,
+        "name": "Machine Gun Kelly",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "麦当娜",
+        "continent": "北美",
+        "id": 252,
+        "name": "Madonna",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "玛吉·罗杰斯",
+        "continent": "北美",
+        "id": 253,
+        "name": "Maggie Rogers",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "玛伦·莫里丝",
+        "continent": "北美",
+        "id": 254,
+        "name": "Maren Morris",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "花蝴蝶",
+        "continent": "北美",
+        "id": 255,
+        "name": "Mariah Carey",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "马克·罗森",
+        "continent": "欧洲",
+        "id": 256,
+        "name": "Mark Ronson",
+        "nation": "英国",
+        "中文名": null
+    },
+    {
+        "alias": "魔力红乐队",
+        "continent": "北美",
+        "id": 257,
+        "name": "Maroon 5",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "铁桶",
+        "continent": "北美",
+        "id": 258,
+        "name": "Marshmello",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "苦婆",
+        "continent": "北美",
+        "id": 259,
+        "name": "Mary J. Blige",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": null,
+        "id": 260,
+        "name": "Marília Mendonça",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": "哈里·迈克尔",
+        "continent": "澳洲",
+        "id": 261,
+        "name": "Masked Wolf",
+        "nation": "澳大利亚",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 262,
+        "name": "Mat & Savanna Shaw",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 263,
+        "name": "Matt McAndrew",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": "马特·斯泰尔",
+        "continent": "北美",
+        "id": 264,
+        "name": "Matt Stell",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "Gerald Maxwell Rivera",
+        "continent": "北美",
+        "id": 265,
+        "name": "Maxwell",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 266,
+        "name": "Meek Mill",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 267,
+        "name": "Megan Thee Stallion",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "梅根·特瑞娜 | 梅根·特雷纳",
+        "continent": "北美",
+        "id": 268,
+        "name": "Meghan Trainor",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "牙缝,牙牙",
+        "continent": "北美",
+        "id": 269,
+        "name": "Melanie Martinez",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "金属乐队",
+        "continent": "未知",
+        "id": 270,
+        "name": "Metallica",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": "墨特罗·布门",
+        "continent": "北美",
+        "id": 271,
+        "name": "Metro Boomin",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "麦可·布雷",
+        "continent": "北美",
+        "id": 272,
+        "name": "Michael Buble",
+        "nation": "加拿大",
+        "中文名": null
+    },
+    {
+        "alias": "米高积森",
+        "continent": "北美",
+        "id": 273,
+        "name": "Michael Jackson",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 274,
+        "name": "Migos",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "麦子",
+        "continent": "北美",
+        "id": 275,
+        "name": "Miley Cyrus",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "美年达",
+        "continent": "北美",
+        "id": 276,
+        "name": "Miranda Lambert",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 277,
+        "name": "Moneybagg Yo",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "摩根·科尔·瓦伦",
+        "continent": "北美",
+        "id": 278,
+        "name": "Morgan Wallen",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 279,
+        "name": "Motley Crue",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": "蒙福之子乐队",
+        "continent": "欧洲",
+        "id": 280,
+        "name": "Mumford & Sons",
+        "nation": "英国",
+        "中文名": null
+    },
+    {
+        "alias": "缪斯",
+        "continent": "欧洲",
+        "id": 281,
+        "name": "Muse",
+        "nation": "英国",
+        "中文名": null
+    },
+    {
+        "alias": "Niggaz Wit Attitudes",
+        "continent": "北美",
+        "id": 282,
+        "name": "N.W.A",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "Beats by Nav、Navraj Beats、ΠΔV",
+        "continent": "北美",
+        "id": 283,
+        "name": "NAV",
+        "nation": "加拿大",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "亚洲",
+        "id": 284,
+        "name": "NCT",
+        "nation": "韩国、中国、日本、加拿大、美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "亚洲",
+        "id": 285,
+        "name": "NCT 127",
+        "nation": "韩国、中国、日本、加拿大、美国",
+        "中文名": null
+    },
+    {
+        "alias": "NEEDTOBREATHE",
+        "continent": "欧美",
+        "id": 286,
+        "name": "NEEDTOBREATHE",
+        "nation": "欧美",
+        "中文名": null
+    },
+    {
+        "alias": "内森·约翰·福伊尔斯坦",
+        "continent": "北美",
+        "id": 287,
+        "name": "NF",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "Nasty Nas|纳斯|Nas Escobar",
+        "continent": "北美",
+        "id": 288,
+        "name": "Nas",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "谢弗·沙美尔·史密斯",
+        "continent": "北美",
+        "id": 289,
+        "name": "Ne-Yo",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "Rishikesh",
+        "id": 290,
+        "name": "Neha Kakkar",
+        "nation": "Rishikesh",
+        "中文名": null
+    },
+    {
+        "alias": "奈尔·霍兰",
+        "continent": "欧洲",
+        "id": 291,
+        "name": "Niall Horan",
+        "nation": "爱尔兰",
+        "中文名": null
+    },
+    {
+        "alias": "尼克·乔纳斯",
+        "continent": "北美",
+        "id": 292,
+        "name": "Nick Jonas",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "尼科尔巴克乐队|五分钱乐队",
+        "continent": "未知",
+        "id": 293,
+        "name": "Nickelback",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": "粉红妖姬",
+        "continent": "北美",
+        "id": 294,
+        "name": "Nicki Minaj",
+        "nation": "美国",
+        "中文名": "妮姬·米娜"
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 295,
+        "name": "Nico & Vinz",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": "尼普西·哈斯勒",
+        "continent": "北美",
+        "id": 296,
+        "name": "Nipsey Hussle",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 297,
+        "name": "ODESZA",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "Omi",
+        "continent": "北美",
+        "id": 298,
+        "name": "OMI",
+        "nation": "牙买加",
+        "中文名": null
+    },
+    {
+        "alias": "兽人乐团",
+        "continent": "欧洲",
+        "id": 299,
+        "name": "Of Monsters And Men",
+        "nation": "冰岛",
+        "中文名": null
+    },
+    {
+        "alias": "娅娅",
+        "continent": "北美",
+        "id": 300,
+        "name": "Olivia Rodrigo",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "小破团",
+        "continent": "欧洲",
+        "id": 301,
+        "name": "One Direction",
+        "nation": "英国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 302,
+        "name": "OneRepublic",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 303,
+        "name": "Ozuna",
+        "nation": "波多黎各",
+        "中文名": null
+    },
+    {
+        "alias": "奥兹.奥斯本",
+        "continent": "欧洲",
+        "id": 304,
+        "name": "Ozzy Osbourne",
+        "nation": "英国",
+        "中文名": null
+    },
+    {
+        "alias": "Sugar P!nk",
+        "continent": "未知",
+        "id": 305,
+        "name": "P!nk",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 306,
+        "name": "Panic! At The Disco",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "帕拉莫尔",
+        "continent": "北美",
+        "id": 307,
+        "name": "Paramore",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 308,
+        "name": "Parker McCollum",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": "保罗•麦卡特尼",
+        "continent": "欧洲",
+        "id": 309,
+        "name": "Paul McCartney",
+        "nation": "英国",
+        "中文名": null
+    },
+    {
+        "alias": "保罗·费德瑞克·西蒙",
+        "continent": "北美",
+        "id": 310,
+        "name": "Paul Simon",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "珍珠果酱乐队",
+        "continent": "北美",
+        "id": 311,
+        "name": "Pearl Jam",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "五声音阶",
+        "continent": "北美",
+        "id": 312,
+        "name": "Pentatonix",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "菲董",
+        "continent": "北美",
+        "id": 313,
+        "name": "Pharrell Williams",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": null,
+        "id": 314,
+        "name": "Piko-Taro",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": "平克•弗洛伊德",
+        "continent": "欧洲",
+        "id": 315,
+        "name": "Pink Floyd",
+        "nation": "英国",
+        "中文名": null
+    },
+    {
+        "alias": "嘻哈斗牛犬",
+        "continent": "北美",
+        "id": 316,
+        "name": "Pitbull",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 317,
+        "name": "Playboi Carti",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 318,
+        "name": "Polo G",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "小朗特尔·丹尼尔·威廉姆斯",
+        "continent": "北美",
+        "id": 319,
+        "name": "Pooh Shiesty",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "来自美国的说唱歌手",
+        "continent": "北美",
+        "id": 320,
+        "name": "Pop Smoke",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "波兹​​·马龙",
+        "continent": "北美",
+        "id": 321,
+        "name": "Post Malone",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 322,
+        "name": "Prince",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 323,
+        "name": "Pusha T",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "欧洲",
+        "id": 324,
+        "name": "Queen",
+        "nation": "英国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 325,
+        "name": "Queens Of The Stone Age",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": "电台司令",
+        "continent": "欧洲",
+        "id": 326,
+        "name": "Radiohead",
+        "nation": "英国",
+        "中文名": null
+    },
+    {
+        "alias": "瑞·斯瑞穆德",
+        "continent": "北美",
+        "id": 327,
+        "name": "Rae Sremmurd",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 328,
+        "name": "Rauw Alejandro",
+        "nation": "波多黎各",
+        "中文名": null
+    },
+    {
+        "alias": "瑞芭 麦肯泰尔",
+        "continent": "北美",
+        "id": 329,
+        "name": "Reba McEntire",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "红辣椒乐队",
+        "continent": "北美",
+        "id": 330,
+        "name": "Red Hot Chili Peppers",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "Connor",
+        "continent": "欧洲",
+        "id": 331,
+        "name": "Rex Orange County",
+        "nation": "英国",
+        "中文名": null
+    },
+    {
+        "alias": "里克·罗斯",
+        "continent": "北美",
+        "id": 332,
+        "name": "Rick Ross",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "翻闹小子",
+        "continent": "北美",
+        "id": 333,
+        "name": "Rihanna",
+        "nation": "巴巴多斯",
+        "中文名": null
+    },
+    {
+        "alias": "起来反抗",
+        "continent": "欧美",
+        "id": 334,
+        "name": "Rise Against",
+        "nation": "欧美",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 335,
+        "name": "Rod Wave",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "罗迪·里奇",
+        "continent": "北美",
+        "id": 336,
+        "name": "Roddy Ricch",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": null,
+        "id": 337,
+        "name": "Rosé",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 338,
+        "name": "Rush",
+        "nation": "加拿大",
+        "中文名": null
+    },
+    {
+        "alias": "拉斯",
+        "continent": "北美",
+        "id": 339,
+        "name": "Russ",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 340,
+        "name": "Russell Dickerson",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 341,
+        "name": "SAINt JHN",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "茜萨",
+        "continent": "北美",
+        "id": 342,
+        "name": "SZA",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "披萨哥",
+        "continent": "北美",
+        "id": 343,
+        "name": "Sam Hunt",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "山姆·史密斯",
+        "continent": "欧洲",
+        "id": 344,
+        "name": "Sam Smith",
+        "nation": "英国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 345,
+        "name": "Sammy Hagar",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": "山塔那合唱團",
+        "continent": "北美",
+        "id": 346,
+        "name": "Santana",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": " Quiava Valentin Harper",
+        "continent": "北美",
+        "id": 347,
+        "name": "Saweetie",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 348,
+        "name": "Sawyer Fredericks",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": "昆西马修·汉利",
+        "continent": "北美",
+        "id": 349,
+        "name": "ScHoolboy Q",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "斯考迪-迈克克里瑞",
+        "continent": "欧美",
+        "id": 350,
+        "name": "Scotty McCreery",
+        "nation": "欧美",
+        "中文名": null
+    },
+    {
+        "alias": "Selena Marie Gomez|赛琳娜•戈梅兹",
+        "continent": "北美",
+        "id": 351,
+        "name": "Selena Gomez",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 352,
+        "name": "Sevendust",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": "狼姐",
+        "continent": "南美",
+        "id": 353,
+        "name": "Shakira",
+        "nation": "哥伦比亚巴兰基里亚",
+        "中文名": null
+    },
+    {
+        "alias": "仙姑",
+        "continent": "北美",
+        "id": 354,
+        "name": "Shania Twain",
+        "nation": "加拿大",
+        "中文名": null
+    },
+    {
+        "alias": "萌德",
+        "continent": "北美",
+        "id": 355,
+        "name": "Shawn Mendes",
+        "nation": "加拿大",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": null,
+        "id": 356,
+        "name": "Shilpi Raj",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 357,
+        "name": "Shinedown",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "思瓦",
+        "continent": "澳洲",
+        "id": 358,
+        "name": "Sia",
+        "nation": "澳大利亚",
+        "中文名": null
+    },
+    {
+        "alias": "火星哥",
+        "continent": "北美",
+        "id": 359,
+        "name": "Silk Sonic",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "平底锅乐队",
+        "continent": "北美",
+        "id": 360,
+        "name": "Skillet",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "活结乐队",
+        "continent": "北美",
+        "id": 361,
+        "name": "Slipknot",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 362,
+        "name": "Solange",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 363,
+        "name": "Spoon",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 364,
+        "name": "Steve Perry",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": "斯德吉尔·辛普森",
+        "continent": "北美",
+        "id": 365,
+        "name": "Sturgill Simpson",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 366,
+        "name": "Summer Walker",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "卞白贤",
+        "continent": "亚洲",
+        "id": 367,
+        "name": "SuperM",
+        "nation": "韩国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 368,
+        "name": "Surf Mesa",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "King Of The South",
+        "continent": "北美",
+        "id": 369,
+        "name": "T.I.",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 370,
+        "name": "TOMORROW X TOGETHER",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "亚洲",
+        "id": 371,
+        "name": "TWICE",
+        "nation": "韩国、日本、中国",
+        "中文名": null
+    },
+    {
+        "alias": "温驯高角羚乐团",
+        "continent": "澳洲",
+        "id": 372,
+        "name": "Tame Impala",
+        "nation": "澳大利亚",
+        "中文名": null
+    },
+    {
+        "alias": "Taylor Alison Swift",
+        "continent": "北美",
+        "id": 373,
+        "name": "Taylor Swi",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "霉霉",
+        "continent": "北美",
+        "id": 374,
+        "name": "Taylor Swift",
+        "nation": "美国",
+        "中文名": "泰勒"
+    },
+    {
+        "alias": null,
+        "continent": "欧洲",
+        "id": 375,
+        "name": "The 1975",
+        "nation": "英国",
+        "中文名": null
+    },
+    {
+        "alias": "艾未特兄弟",
+        "continent": "北美",
+        "id": 376,
+        "name": "The Avett Brothers",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "披头四",
+        "continent": "欧洲",
+        "id": 377,
+        "name": "The Beatles",
+        "nation": "英国",
+        "中文名": null
+    },
+    {
+        "alias": "黑键乐队",
+        "continent": "北美",
+        "id": 378,
+        "name": "The Black Keys",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "碧昂丝·诺利斯",
+        "continent": "北美",
+        "id": 379,
+        "name": "The Carters",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "烟民二人组",
+        "continent": "北美",
+        "id": 380,
+        "name": "The Chainsmokers",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "南方小鸡",
+        "continent": "北美",
+        "id": 381,
+        "name": "The Chicks",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "卡百利乐队",
+        "continent": "欧洲",
+        "id": 382,
+        "name": "The Cranberries",
+        "nation": "爱尔兰",
+        "中文名": null
+    },
+    {
+        "alias": "杰森·特雷尔·泰勒",
+        "continent": "北美",
+        "id": 383,
+        "name": "The Game",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "查尔顿",
+        "continent": "澳洲",
+        "id": 384,
+        "name": "The Kid LAROI",
+        "nation": "澳大利亚",
+        "中文名": null
+    },
+    {
+        "alias": "杀手乐团",
+        "continent": "未知",
+        "id": 385,
+        "name": "The Killers",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 386,
+        "name": "The Lumineers",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 387,
+        "name": "The National",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 388,
+        "name": "The Raconteurs",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": "滚石乐队",
+        "continent": "欧洲",
+        "id": 389,
+        "name": "The Rolling Stones",
+        "nation": "英国",
+        "中文名": null
+    },
+    {
+        "alias": "敲击乐队",
+        "continent": "北美",
+        "id": 390,
+        "name": "The Strokes",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "盆栽哥",
+        "continent": "北美",
+        "id": 391,
+        "name": "The Weeknd",
+        "nation": "加拿大",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "欧洲",
+        "id": 392,
+        "name": "The Who",
+        "nation": "英国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "欧洲",
+        "id": 393,
+        "name": "The xx",
+        "nation": "英国",
+        "中文名": null
+    },
+    {
+        "alias": "火星",
+        "continent": "北美",
+        "id": 394,
+        "name": "Thirty Seconds To Mars",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "托马斯·瑞德",
+        "continent": "北美",
+        "id": 395,
+        "name": "Thomas Rhett",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "汤姆·佩蒂和伤心人乐队",
+        "continent": "北美",
+        "id": 396,
+        "name": "Tom Petty And The Heartbreakers",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 397,
+        "name": "Tool",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": "托里·凯莉",
+        "continent": "北美",
+        "id": 398,
+        "name": "Tori Kelly",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "托芙萝",
+        "continent": "欧洲",
+        "id": 399,
+        "name": "Tove Lo",
+        "nation": "瑞典",
+        "中文名": null
+    },
+    {
+        "alias": "特拉维斯·斯科特",
+        "continent": "北美",
+        "id": 400,
+        "name": "Travis Scott",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "崔·颂，特里梅因·阿尔登·纳文逊",
+        "continent": "北美",
+        "id": 401,
+        "name": "Trey Songz",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 402,
+        "name": "Trippie Redd",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "戳爷",
+        "continent": "澳洲",
+        "id": 403,
+        "name": "Troye Sivan",
+        "nation": "澳大利亚",
+        "中文名": null
+    },
+    {
+        "alias": "Ty Dolla Sign",
+        "continent": "北美",
+        "id": 404,
+        "name": "Ty Dolla $ign",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "Tyler Gregory Okonma（泰勒·格利高里·奥康马）",
+        "continent": "北美",
+        "id": 405,
+        "name": "Tyler, The Creator",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "Black-Ty",
+        "continent": "美国加利福尼亚州洛杉矶",
+        "id": 406,
+        "name": "Tyrese",
+        "nation": "美国加利福尼亚州洛杉矶",
+        "中文名": null
+    },
+    {
+        "alias": "U2乐团",
+        "continent": "欧洲",
+        "id": 407,
+        "name": "U2",
+        "nation": "爱尔兰",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "亚洲",
+        "id": 408,
+        "name": "Udit Narayan",
+        "nation": "India",
+        "中文名": null
+    },
+    {
+        "alias": "亚瑟小子",
+        "continent": "北美",
+        "id": 409,
+        "name": "Usher",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "吸血鬼周末",
+        "continent": "北美",
+        "id": 410,
+        "name": "Vampire Weekend",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "Mammoth (早期)",
+        "continent": "北美",
+        "id": 411,
+        "name": "Van Halen",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "月亮行走",
+        "continent": "北美",
+        "id": 412,
+        "name": "WALK THE MOON",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 413,
+        "name": "Wale",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 414,
+        "name": "Walker Hayes",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "威瑟乐队",
+        "continent": "北美",
+        "id": 415,
+        "name": "Weezer",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "欧洲",
+        "id": 416,
+        "name": "Wham!",
+        "nation": "英国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 417,
+        "name": "Whiskey Myers",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": "WDW",
+        "continent": "北美",
+        "id": 418,
+        "name": "Why Don't We",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "卡梅伦·吉布里尔·托马斯",
+        "continent": "北美",
+        "id": 419,
+        "name": "Wiz Khalifa",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 420,
+        "name": "XXXTENTACION",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": "Triple X",
+        "continent": "北美",
+        "id": 421,
+        "name": "XXXTentacion",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "基嫩·德坎·雷·杰克逊",
+        "continent": "北美",
+        "id": 422,
+        "name": "YG",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "尤·戈蒂",
+        "continent": "北美",
+        "id": 423,
+        "name": "Yo Gotti",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 424,
+        "name": "Young Dolph",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": "年轻暴徒",
+        "continent": "北美",
+        "id": 425,
+        "name": "Young Thug",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 426,
+        "name": "YoungBoy Never Broke Again",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 427,
+        "name": "Zac Brown Band",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 428,
+        "name": "Zayn",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 429,
+        "name": "benny blanco",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 430,
+        "name": "blackbear",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "伊恩.迪奥",
+        "continent": "北美",
+        "id": 431,
+        "name": "iann dior",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "二十一名飞行员",
+        "continent": "北美",
+        "id": 432,
+        "name": "twenty one pilots",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "美国",
+        "id": 433,
+        "name": "二十一名飞行员",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "5秒盛夏",
+        "continent": "澳洲",
+        "id": 434,
+        "name": "五秒盛夏",
+        "nation": "澳大利亚",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "美国",
+        "id": 435,
+        "name": "五美组合",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "水果姐",
+        "continent": "美国",
+        "id": 436,
+        "name": "凯蒂·佩里",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 437,
+        "name": "利尔·庞普",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 438,
+        "name": "利尔·迪基",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "英国",
+        "id": 439,
+        "name": "单向组合",
+        "nation": "英国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 440,
+        "name": "卡尔文·哈里斯",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": "卡米拉·卡贝洛",
+        "continent": "北美",
+        "id": 441,
+        "name": "卡米拉·卡贝洛",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "卡迪·B",
+        "continent": "北美",
+        "id": 442,
+        "name": "卡迪·B",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 443,
+        "name": "唐纳德·格洛沃",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 444,
+        "name": "坎耶·韦斯特",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 445,
+        "name": "坏痞兔",
+        "nation": "波多黎各",
+        "中文名": null
+    },
+    {
+        "alias": "阿姆",
+        "continent": "美国",
+        "id": 446,
+        "name": "埃米纳姆",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "粉红妖姬",
+        "continent": "北美",
+        "id": 447,
+        "name": "妮姬·米娜",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "盆栽哥",
+        "continent": "北美",
+        "id": 448,
+        "name": "威肯",
+        "nation": "加拿大",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": null,
+        "id": 449,
+        "name": "娜媞·娜塔莎",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 450,
+        "name": "安妮-玛丽",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "欧洲",
+        "id": 451,
+        "name": "安立奎·伊格莱西亚斯",
+        "nation": "西班牙",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "美国",
+        "id": 452,
+        "name": "尼基",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "彼得•基恩•埃尔南德斯（Peter Gene Hernandez）",
+        "continent": "美国",
+        "id": 453,
+        "name": "布鲁诺·马尔斯",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "Sia Kate Isobelle Furler，思瓦,Sia Furler，洗牙",
+        "continent": "澳洲",
+        "id": 454,
+        "name": "希雅",
+        "nation": "澳大利亚",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 455,
+        "name": "德雷克",
+        "nation": "加拿大",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "美国",
+        "id": 456,
+        "name": "扬基老爹",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": null,
+        "id": 457,
+        "name": "拉扎尔少校",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 458,
+        "name": "捷德",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": "啪姐",
+        "continent": "欧洲",
+        "id": 459,
+        "name": "杜阿·利帕",
+        "nation": "英国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 460,
+        "name": "梅根·特雷纳",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": "梦想之龙乐队",
+        "continent": "北美",
+        "id": 461,
+        "name": "梦想之龙乐队",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "铁桶",
+        "continent": "北美",
+        "id": 462,
+        "name": "棉花糖",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "碧梨",
+        "continent": "北美",
+        "id": 463,
+        "name": "比莉·艾利什",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "波兹​​·马龙",
+        "continent": "北美",
+        "id": 464,
+        "name": "波兹·马龙",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 465,
+        "name": "泽恩·马利克",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": "海尔希",
+        "continent": "北美",
+        "id": 466,
+        "name": "海尔希",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "美国",
+        "id": 467,
+        "name": "烟鬼组合",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "A妹",
+        "continent": "美国",
+        "id": 468,
+        "name": "爱莉安娜·格兰德",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 469,
+        "name": "玛伦·莫里斯",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": "碧昂丝·诺利斯",
+        "continent": "北美",
+        "id": 470,
+        "name": "碧昂丝",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 471,
+        "name": "碧碧·雷克萨",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": "粉红佳人",
+        "continent": "北美",
+        "id": 472,
+        "name": "粉红佳人",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": null,
+        "id": 473,
+        "name": "维兹·卡利法",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": null,
+        "id": 474,
+        "name": "罗梅欧·桑托斯",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": "肖恩·彼得·劳尔·蒙德兹",
+        "continent": "北美",
+        "id": 475,
+        "name": "肖恩·门德斯",
+        "nation": "加拿大",
+        "中文名": null
+    },
+    {
+        "alias": "肯德里克·拉马尔",
+        "continent": "北美",
+        "id": 476,
+        "name": "肯德里克·拉马尔",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": null,
+        "id": 477,
+        "name": "胡安·加布里埃尔",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": null,
+        "id": 478,
+        "name": "舒蕾亚·戈沙尔",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": "黄老板",
+        "continent": "英国",
+        "id": 479,
+        "name": "艾德·希兰",
+        "nation": "英国",
+        "中文名": null
+    },
+    {
+        "alias": "艾维奇",
+        "continent": "欧洲",
+        "id": 480,
+        "name": "艾维奇",
+        "nation": "瑞典",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 481,
+        "name": "萨姆·史密斯",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": null,
+        "id": 482,
+        "name": "蘇努·尼甘",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": "B宝",
+        "continent": "北美",
+        "id": 483,
+        "name": "贾斯汀·比伯",
+        "nation": "加拿大",
+        "中文名": null
+    },
+    {
+        "alias": "贾老板",
+        "continent": "北美",
+        "id": 484,
+        "name": "贾斯汀·汀布莱克",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 485,
+        "name": "赛琳娜·戈麦斯",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "北美",
+        "id": 486,
+        "name": "路易斯·冯西",
+        "nation": "波多黎各",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "美国",
+        "id": 487,
+        "name": "迈克·托尔斯",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "米高积森",
+        "continent": "北美",
+        "id": 488,
+        "name": "迈克尔·杰克逊",
+        "nation": "美国",
+        "中文名": null
+    },
+    {
+        "alias": "冷玩",
+        "continent": "英国",
+        "id": 489,
+        "name": "酷玩乐队",
+        "nation": "英国",
+        "中文名": null
+    },
+    {
+        "alias": "防弾少年団",
+        "continent": "亚洲",
+        "id": 490,
+        "name": "防弹少年团",
+        "nation": "韩国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "未知",
+        "id": 491,
+        "name": "阿里吉特·辛格",
+        "nation": null,
+        "中文名": null
+    },
+    {
+        "alias": "阿黛尔·劳丽·布鲁·阿德金斯",
+        "continent": "英国",
+        "id": 492,
+        "name": "阿黛尔",
+        "nation": "英国",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "亚洲",
+        "id": 493,
+        "name": "霍安·锡巴斯琴",
+        "nation": "马来西亚",
+        "中文名": null
+    },
+    {
+        "alias": null,
+        "continent": "哥伦比亚",
+        "id": 494,
+        "name": "马卢玛",
+        "nation": "哥伦比亚",
+        "中文名": null
+    }
+]
